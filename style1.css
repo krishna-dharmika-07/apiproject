@@ -1,0 +1,44 @@
+p{
+    color: black;
+    font-weight: lighter;
+    font-size: 20px;
+    font-family: Arial, sans-serif;
+}
+h1{
+    font-family: Arial, sans-serif;
+}
+#mainbtn{
+    color: white;
+    background-color: blue;
+    padding: 10px 30px;
+    border-radius: 10px;
+}
+#mainbtn:hover{
+    color: white;
+    background-color: black;
+}
+a{
+    text-decoration: none;
+}
+#logo{
+    width: 125px;
+    height: 75px;
+}
+header{
+    
+    display: flex;
+    justify-content: space-evenly;
+}
+nav{
+    display: flex;
+    gap: 20px;
+    align-items: center;
+}
+#vedios{
+    display: flex;
+    flex-wrap: wrap;
+    gap: 50px;
+    justify-content: center;
+    margin-top: 50px;
+    
+}

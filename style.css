@@ -1,0 +1,27 @@
+.p1{
+    color: purple;
+}
+.p2{
+    color: brown;
+}
+button{
+    color: white;
+    background-color: blue;
+}
+body{
+    color: white;
+    background-color: black;
+    background-image: url('https://zerodha.com/static/images/logo.svg');
+}
+img{
+    width: 50%;
+    height: 50%;
+}
+.btn1{
+    color: white;
+    background-color: red;
+}
+.btn2{
+    color: white;
+    background-color: green;
+}
